@@ -5,14 +5,14 @@
 -->
 Experienced and results-driven Senior Full Stack Developer with a proven track record of designing, developing, and deploying end-to-end applications. Proficient in modern web technologies, including Angular, React, Spring Boot, and Microservices, with a strong focus on delivering scalable, high-performance solutions.
 
-Skill Set: 
-- React, Angular, JavaScript, TypeScript, RxJs, Redux, State Management, Jest, Micro-frontends
-- Java, Spring Framework, Spring Boot, Hibernate, Maven, JUnit, API Development, Apache Kafka, Micro-services
-- MySQL, SQL Server, Oracle DB, Cosmos DB, Mongo DB, Firebase.
-- Agile Development, Data Structures, Algorithms, Problem Solving, Design Patterns, System Design
-- Prompt Engineering, GitHub Copilot, ChatGPT, DeepSeek, Gemini
+Skills: 
+React, Angular, JavaScript, TypeScript, RxJs, Redux, State Management, Jest, Micro-frontends
+Java, Spring Framework, Spring Boot, Hibernate, Maven, JUnit, API Development, Apache Kafka, Micro-services
+MySQL, SQL Server, Oracle DB, Cosmos DB, Mongo DB, Firebase.
+Agile Development, Data Structures, Algorithms, Problem Solving, Design Patterns, System Design
+Prompt Engineering, GitHub Copilot, ChatGPT, DeepSeek, Gemini
 
-
+Highlights:
 - 🔭 I’m currently working on leading the development of a cloud-native microservices platform using Kubernetes and Docker for better scalability and fault tolerance.
 - 🌱 I’m currently learning about AI and exploring ways to integrate intelligent features into applications.
 - 👯 I’m looking to collaborate on an open-source projects that focus on performance optimization
